@@ -1,0 +1,14 @@
+// Dimensões da janela em termo de bolhas (largura e altura)
+18 13
+
+// Dimensão da bolha em píxeis (raio)
+15
+
+// dl – distância para avaliação da colisão (percentagem do diâmetro)
+1
+
+// Número de linhas iniciais com bolhas
+5
+
+// Geração de uma nova linha de bolhas ao fim de N jogadas
+5
